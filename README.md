@@ -32,7 +32,7 @@
 <br />
 
 <div align="center">
-  <h3> Other Knowledge: </h3>
+  <h3> Other Knowledges: </h3>
   <hr />
   <br />
 </div>
