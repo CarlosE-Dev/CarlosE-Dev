@@ -18,6 +18,7 @@
 
 <br />
 <br />
+<br />
 
 <div align="center">
   <h3> Tools: </h3>
@@ -30,6 +31,7 @@
   <img align="center" alt="VSCode" alt="React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
+<br />
 <br />
 <br />
 
