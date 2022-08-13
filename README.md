@@ -13,6 +13,7 @@
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NET" height="60" width="60" src="https://img.icons8.com/color/48/000000/net-framework.png">
 </div>
 
 <br /> 
