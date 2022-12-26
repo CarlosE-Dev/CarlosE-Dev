@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Carlos+Eduardo;I+work+with+software+development)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+:%29)](https://git.io/typing-svg)
-
 <br />
 
 <div align="center">
@@ -65,5 +63,7 @@
 <p align="centre"><h4>Visitors Count</h4></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosE-Dev}/count.svg" /></p> 
 <br></div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+:%29)](https://git.io/typing-svg)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42426F&height=120&section=footer"/>
